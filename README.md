@@ -1,2 +1,2 @@
 # fibonacci
-Fibonacci tidbits
+Fibonacci numbers tidbits
